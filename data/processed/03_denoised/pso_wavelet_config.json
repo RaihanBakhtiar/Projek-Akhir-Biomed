@@ -1,0 +1,7 @@
+{
+  "wavelet": "sym4",
+  "level": 10,
+  "threshold_type": "hard",
+  "objective": 3763.2229008230847,
+  "objective_method": "mean SURE on wavelet detail coefficients"
+}
